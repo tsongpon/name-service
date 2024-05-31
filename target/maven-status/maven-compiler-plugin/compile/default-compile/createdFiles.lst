@@ -1,0 +1,5 @@
+io/songpon/nameservice/controller/HelloController.class
+io/songpon/nameservice/repository/PersonRepository.class
+io/songpon/nameservice/NameServiceApplication.class
+io/songpon/nameservice/domain/Person.class
+io/songpon/nameservice/controller/NameController.class
